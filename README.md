@@ -141,7 +141,6 @@ Follow the steps below to set up the project locally:
    ```bash
    git clone https://github.com/your-username/cowsense.git
    cd cowsense
-````
 
 2. **Navigate to the backend and install dependencies**
 
