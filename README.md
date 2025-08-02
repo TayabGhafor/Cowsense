@@ -41,7 +41,7 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 - 📅 Appointment booking
 - 🐄 Add/manage animal profiles
 
-📥 **Download APK:** [Farmer App APK](https://your-link.com/farmer-app.apk)
+📥 **Download APK:** [Farmer App APK](https://drive.google.com/file/d/13L3j6xj8L-H2tU-wHV5MQAEHtr2T0EPz/view?usp=sharing)
 
 ---
 
@@ -53,7 +53,7 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 - 💬 Chat with farmers
 - 👨‍⚕️ Manage profile
 
-📥 **Download APK:** [Vet App APK](https://your-link.com/vet-app.apk)
+📥 **Download APK:** [Vet App APK](https://drive.google.com/file/d/1QAGQvaRya2WFgmAKeAmRa1rpj6i68pup/view?usp=sharing)
 
 > 🔒 Both apps include secure login & registration flows.
 
@@ -107,7 +107,7 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 ### 📲 App Demo Video
 
 🎥 **Farmer App Demo**  
-📺 [Watch](images/app-demo.mp4)
+📺 [Watch](https://drive.google.com/file/d/1T_jcmVXzJbg_aFjyTw9QpchUqO88VYAx/view?usp=sharing)
 
 ---
 
