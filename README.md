@@ -96,7 +96,8 @@ We built **two Flutter-based mobile apps**:
 
 📸 **Sample Model Output**  
 *(Insert sample AI model annotated image here)*  
-![AI Sample Output](images/ai_model_output.png)
+![AI Sample Output](images/roboflow-model.png)
+![AI Sample Output](images/hugging-face-model.png)
 
 ---
 
