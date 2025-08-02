@@ -133,7 +133,7 @@ B -->|Store & Retrieve Data| DB[(MongoDB)]
 B -->|Invoke AI Model| AIModel[YOLOv8m - Hugging Face]
 
 ---
-
+````
 ## 🚀 Getting Started
 
 Follow the steps below to set up the project locally:
