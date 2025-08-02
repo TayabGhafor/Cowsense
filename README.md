@@ -91,12 +91,15 @@ We built **two Flutter-based mobile apps**:
 🔬 **Roboflow Preview**:  
 👉 [Roboflow CowSense Model](https://app.roboflow.com/visionvet/cowsense/models/cowsense/1)
 
+📸 **Sample Model Output**  
+*(Insert sample AI model annotated image here)*  
+![AI Sample Output](images/roboflow-model.png)
+
 🤖 **Hugging Face AI Space**:  
 👉 [Hugging Face Model Live Demo](https://huggingface.co/spaces/malikTayab/cowsense-disease-detector)
 
 📸 **Sample Model Output**  
 *(Insert sample AI model annotated image here)*  
-![AI Sample Output](images/roboflow-model.png)
 ![AI Sample Output](images/hugging-face-model.png)
 
 ---
