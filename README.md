@@ -247,8 +247,6 @@ Developed and maintained by:
 
 ---
 
-```
-
 
 ```
 
