@@ -104,13 +104,10 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 📸 **Sample Model Output**    
 ![AI Sample Output](images/hugging-face-model.png)
 
-### 📲 App Demo Videos
+### 📲 App Demo Video
 
-🎥 **Farmer App Demo Video**  
-📺 [Watch on YouTube](https://your-link.com/farmer-demo)
-
-🎥 **Vet App Demo Video**  
-📺 [Watch on YouTube](https://your-link.com/vet-demo)
+🎥 **Farmer App Demo**  
+📺 [Watch](images/app-demo.mp4)
 
 ---
 
