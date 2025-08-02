@@ -104,7 +104,7 @@ We built **two Flutter-based mobile apps**:
 
 ## 📡 IoT Device - CowLink
 
-🧠 **CowLink** is a custom-built smart collar worn by cattle. It collects vital health data and sends it to our backend server in real time.
+🐄 **CowLink** is a custom-built smart collar worn by cattle. It collects vital health data and sends it to our backend server in real time.
 
 ![CowLink Device](images/COWLINK.png)
 
@@ -120,9 +120,9 @@ We built **two Flutter-based mobile apps**:
 
 🔔 Abnormal readings generate **instant alerts** to the farmer.
 
-🖼️ *CowLink Device Images*  
-*(Insert device images here)*  
-![CowLink Device](images/cowlink_device.jpg)
+📟 *CowLink Device Sensors*  
+
+![CowLink Device](images/sensors.png)
 
 ---
 
