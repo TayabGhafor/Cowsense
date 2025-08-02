@@ -90,11 +90,13 @@ We built **two Flutter-based mobile apps**:
 
 🔬 **Roboflow Preview**:  
 👉 [Roboflow CowSense Model](https://app.roboflow.com/visionvet/cowsense/models/cowsense/1)
+
 📸 **Sample Model Output**   
 ![AI Sample Output](images/roboflow-model.png)
 
 🤖 **Hugging Face AI Space**:  
 👉 [Hugging Face Model Live Demo](https://huggingface.co/spaces/malikTayab/cowsense-disease-detector)
+
 📸 **Sample Model Output**    
 ![AI Sample Output](images/hugging-face-model.png)
 
@@ -103,6 +105,8 @@ We built **two Flutter-based mobile apps**:
 ## 📡 IoT Device - CowLink
 
 🧠 **CowLink** is a custom-built smart collar worn by cattle. It collects vital health data and sends it to our backend server in real time.
+
+![CowLink Device](images/COWLINK.png)
 
 ### 🧰 Sensor Suite
 - **ESP32** (Microcontroller)
