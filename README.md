@@ -104,6 +104,14 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 📸 **Sample Model Output**    
 ![AI Sample Output](images/hugging-face-model.png)
 
+### 📲 App Demo Videos
+
+🎥 **Farmer App Demo Video**  
+📺 [Watch on YouTube](https://your-link.com/farmer-demo)
+
+🎥 **Vet App Demo Video**  
+📺 [Watch on YouTube](https://your-link.com/vet-demo)
+
 ---
 
 ## 📡 IoT Device - CowLink
