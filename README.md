@@ -247,7 +247,7 @@ Developed and maintained by:
 
 ---
 
-
+```
 ```
 
 ## 🔮 Future Work & Upcoming Features
