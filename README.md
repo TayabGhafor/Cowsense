@@ -6,17 +6,17 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 ---
 
 ## 📌 Table of Contents
- [✨ Key Features](#-key-features)
- [📱 Mobile Applications](#-mobile-applications)
- [📦 Tech Stack](#-tech-stack)
- [🧠 AI Model Details](#-ai-model-details)
- [🔗 Live Demo & Model Previews](#-live-demo--model-previews)
- [📡 IoT Device - CowLink](#-iot-device---cowlink)
- [📲 System Architecture](#-system-architecture)
- [🚀 Getting Started](#-getting-started)
- [🛠 Installation](#-installation)
- [📜 License](#-license)
- [🙋‍♂️ Maintainer](#-maintainer)
+- [✨ Key Features](#-key-features)
+- [📱 Mobile Applications](#-mobile-applications)
+- [📦 Tech Stack](#-tech-stack)
+- [🧠 AI Model Details](#-ai-model-details)
+- [🔗 Live Demo & Model Previews](#-live-demo--model-previews)
+- [📡 IoT Device - CowLink](#-iot-device---cowlink)
+- [📲 System Architecture](#-system-architecture)
+- [🚀 Getting Started](#-getting-started)
+- [🛠 Installation](#-installation)
+- [📜 License](#-license)
+- [🙋‍♂️ Maintainer](#-maintainer)
 
 ---
 
@@ -34,24 +34,24 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 ---
 
 ### 👨‍🌾 Farmer App
- 📊 Real-time vitals dashboard from CowLink
- 🖼️ Disease prediction via AI (image upload or camera)
- 🤖 Gemini AI assistant for disease guidance
- 💬 Chat with vets
- 📅 Appointment booking
- 🐄 Add/manage animal profiles
+- 📊 Real-time vitals dashboard from CowLink
+- 🖼️ Disease prediction via AI (image upload or camera)
+- 🤖 Gemini AI assistant for disease guidance
+- 💬 Chat with vets
+- 📅 Appointment booking
+- 🐄 Add/manage animal profiles
 
 📥 **Download APK:** [Farmer App APK](https://drive.google.com/file/d/13L3j6xj8L-H2tU-wHV5MQAEHtr2T0EPz/view?usp=sharing)
 
 ---
 
 ### 🩺 Veterinarian (Vet) App
- 📋 View AI reports shared by farmers
- ✅ Accept/Reject appointments
- 🧾 Update consult status (Pending, Done, Rejected)
- 💊 Suggest medication
- 💬 Chat with farmers
- 👨‍⚕️ Manage profile
+- 📋 View AI reports shared by farmers
+- ✅ Accept/Reject appointments
+- 🧾 Update consult status (Pending, Done, Rejected)
+- 💊 Suggest medication
+- 💬 Chat with farmers
+- 👨‍⚕️ Manage profile
 
 📥 **Download APK:** [Vet App APK](https://drive.google.com/file/d/1QAGQvaRya2WFgmAKeAmRa1rpj6i68pup/view?usp=sharing)
 
@@ -75,11 +75,11 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 
 ## 🧠 AI Model Details
 
- 📸 Model Type: YOLOv8m Object Detection
- 🏷️ Annotated with: **Roboflow**
- 📍 Trained on: Google Colab (Python, Ultralytics)
- 🚀 Deployment: Hugging Face Space + Roboflow Space
- 🧪 Output: Annotated images, confidence score, disease label
+- 📸 Model Type: YOLOv8m Object Detection
+- 🏷️ Annotated with: **Roboflow**
+- 📍 Trained on: Google Colab (Python, Ultralytics)
+- 🚀 Deployment: Hugging Face Space + Roboflow Space
+- 🧪 Output: Annotated images, confidence score, disease label
 
 #### 🔍 Model Capabilities:
 - Detect visible diseases on cattle skin/body
@@ -243,7 +243,7 @@ Developed and maintained by:
 🔗 GitHub: [TayabGhafor](https://github.com/TayabGhafor)
 🧠 Hugging Face: [CowSense Disease Detector](https://huggingface.co/spaces/malikTayab/cowsense-disease-detector)
 
-> Feel free to connect, fork the repo, raise issues, or suggest features 🚀
+> Feel free to connect 🚀
 
 ---
 
@@ -256,16 +256,16 @@ Developed and maintained by:
 
 We plan to enhance **CowSense** with the following improvements:
 
- 🧠 **Offline AI Inference**: Run disease detection without internet using Edge AI.
- 🔈 **Voice Assistant**: Add regional language voice support for farmers.
- 📈 **Analytics Dashboard**: Visualize vitals trends & disease patterns over time.
- 🧬 **Expanded Disease Coverage**: Train model on more disease types for higher accuracy.
- 🌐 **Web Portal**: Centralized admin & vet dashboard for managing reports & users.
- 💊 **e-Prescriptions**: Vets can send treatment plans directly to farmers in-app.
- 📍 **Geo-Fencing Alerts**: Notify if animal leaves designated area.
- 📦 **Multi-Animal Management**: Support for managing multiple animals or herds.
- 🔒 **Role-Based Access**: Fine-grained permissions for users (Farmer, Vet, Admin).
- 📡 **LoRaWAN Support**: Enable long-range, low-power communication in rural areas.
+- 🧠 **Offline AI Inference**: Run disease detection without internet using Edge AI.
+- 🔈 **Voice Assistant**: Add regional language voice support for farmers.
+- 📈 **Analytics Dashboard**: Visualize vitals trends & disease patterns over time.
+- 🧬 **Expanded Disease Coverage**: Train model on more disease types for higher accuracy.
+- 🌐 **Web Portal**: Centralized admin & vet dashboard for managing reports & users.
+- 💊 **e-Prescriptions**: Vets can send treatment plans directly to farmers in-app.
+- 📍 **Geo-Fencing Alerts**: Notify if animal leaves designated area.
+- 📦 **Multi-Animal Management**: Support for managing multiple animals or herds.
+- 🔒 **Role-Based Access**: Fine-grained permissions for users (Farmer, Vet, Admin).
+- 📡 **LoRaWAN Support**: Enable long-range, low-power communication in rural areas.
 
 ---
 
