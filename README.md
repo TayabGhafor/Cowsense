@@ -33,23 +33,27 @@ An **AI + IoT powered smart livestock health management system** designed to mon
 
 ---
 
-## 📱 Mobile Applications
-
-We built **two Flutter-based mobile apps**:
-
 ### 👨‍🌾 Farmer App
-- Real-time vitals dashboard from CowLink
-- Disease prediction with AI model
-- Chat with vets
-- Book appointments
-- Gemini AI Assistant
-- Share AI reports with vets
+- 📊 Real-time vitals dashboard from CowLink
+- 🖼️ Disease prediction via AI (image upload or camera)
+- 🤖 Gemini AI assistant for disease guidance
+- 💬 Chat with vets
+- 📅 Appointment booking
+- 🐄 Add/manage animal profiles
 
-### 🩺 Vet App
-- Accept/Reject appointments
-- View AI reports & update consult status
-- Suggest medication
-- Real-time chat with farmers
+📥 **Download APK:** [Farmer App APK](https://your-link.com/farmer-app.apk)
+
+---
+
+### 🩺 Veterinarian (Vet) App
+- 📋 View AI reports shared by farmers
+- ✅ Accept/Reject appointments
+- 🧾 Update consult status (Pending, Done, Rejected)
+- 💊 Suggest medication
+- 💬 Chat with farmers
+- 👨‍⚕️ Manage profile
+
+📥 **Download APK:** [Vet App APK](https://your-link.com/vet-app.apk)
 
 > 🔒 Both apps include secure login & registration flows.
 
