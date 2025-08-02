@@ -131,3 +131,115 @@ VetApp[Veterinarian App] -->|View Reports & Consult| B
 CowLink[IoT Collar] -->|Sensor Data| B
 B -->|Store & Retrieve Data| DB[(MongoDB)]
 B -->|Invoke AI Model| AIModel[YOLOv8m - Hugging Face]
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to set up the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/cowsense.git
+   cd cowsense
+````
+
+2. **Navigate to the backend and install dependencies**
+
+   ```bash
+   cd backend
+   npm install
+   ```
+
+3. **Install Flutter dependencies for both apps**
+
+   ```bash
+   # Farmer App
+   cd ../farmer-app
+   flutter pub get
+
+   # Vet App
+   cd ../vet-app
+   flutter pub get
+   ```
+
+4. **Create environment file for backend**
+   Inside the `backend` folder, create a `.env` file and add the following:
+
+   ```env
+   PORT=5000
+   MONGO_URI=your_mongo_connection_string
+   RENDER_API=https://your_render_server_url
+   ```
+
+5. **Run the backend server**
+
+   ```bash
+   cd backend
+   npm run dev
+   ```
+
+6. **Run the apps**
+
+   ```bash
+   # Farmer App
+   cd ../farmer-app
+   flutter run
+
+   # Vet App
+   cd ../vet-app
+   flutter run
+   ```
+
+---
+
+## 🛠 Installation
+
+> This project requires:
+>
+> * Node.js & npm
+> * MongoDB
+> * Flutter SDK
+> * Android/iOS Emulator or Physical Device
+
+**Note:** Make sure your environment is configured correctly to run both the backend and the Flutter apps. For Flutter setup, visit the [official Flutter docs](https://docs.flutter.dev/get-started/install).
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+```
+MIT License
+
+Copyright (c) 2025 Tayab
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+```
+
+For more details, check the [LICENSE](LICENSE) file.
+
+---
+
+## 🙋‍♂️ Maintainer
+
+Developed and maintained by:
+
+👨‍💻 **Tayab Malik**
+📧 Email: [tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)
+🔗 GitHub: [TayabGhafor](https://github.com/TayabGhafor)
+🧠 Hugging Face: [CowSense Disease Detector](https://huggingface.co/spaces/malikTayab/cowsense-disease-detector)
+
+> Feel free to connect, fork the repo, raise issues, or suggest features 🚀
+
+---
+
+```
+
+---
+
+Let me know if you'd like me to combine this with the earlier content and export the complete `README.md` as a downloadable file.
+```
