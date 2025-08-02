@@ -132,7 +132,6 @@ CowLink[IoT Collar] -->|Sensor Data| B
 B -->|Store & Retrieve Data| DB[(MongoDB)]
 B -->|Invoke AI Model| AIModel[YOLOv8m - Hugging Face]
 
----
 ````
 ## 🚀 Getting Started
 
