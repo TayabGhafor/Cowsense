@@ -19,16 +19,16 @@ jobs:
 
       - name: Install dependencies
         run: flutter pub get
-        working-directory: cowsense
+        working-directory: Farmer-App
 
       - name: Analyze project source
         run: flutter analyze
-        working-directory: cowsense
+        working-directory: Farmer-App
 
       - name: Verify formatting
         run: flutter format --set-exit-if-changed .
-        working-directory: cowsense
+        working-directory: Farmer-App
 
       - name: Run tests
         run: flutter test
-        working-directory: cowsense
+        working-directory: Farmer-App
