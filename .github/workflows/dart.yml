@@ -13,19 +13,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Setup Flutter (includes Dart SDK)
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
 
       - name: Install dependencies
         run: flutter pub get
+        working-directory: cowsense
 
       - name: Analyze project source
         run: flutter analyze
+        working-directory: cowsense
 
       - name: Verify formatting
         run: flutter format --set-exit-if-changed .
+        working-directory: cowsense
 
       - name: Run tests
         run: flutter test
+        working-directory: cowsense
