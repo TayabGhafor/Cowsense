@@ -250,7 +250,6 @@ Developed and maintained by:
 
 ---
 
----
 
 ## 👥 Cowsense Team
 
