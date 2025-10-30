@@ -239,14 +239,35 @@ For more details, check the [LICENSE](LICENSE) file.
 Developed and maintained by:
 
 👨‍💻 **Tayab Malik**
+
 📧 Email: [tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)
+
 🔗 GitHub: [TayabGhafor](https://github.com/TayabGhafor)
+
 🧠 Hugging Face: [CowSense Disease Detector](https://huggingface.co/spaces/malikTayab/cowsense-disease-detector)
 
 > Feel free to connect 🚀
 
 ---
 
+---
+
+## 👥 Cowsense Team
+
+Developed by:
+
+👨‍💻 **Tayab Malik**
+- 📧 Roll No: FA21-BSE-030
+
+👨‍💻 **Umar Saeed**
+- 📧 Roll No: FA21-BSE-090
+ 
+👨‍💻 **Haris Shoaib**
+- 📧 Roll No: FA21-BSE-076
+
+> Feel free to connect 🚀
+
+---
 
 ## 🔮 Future Work & Upcoming Features
 
